@@ -53,10 +53,10 @@ hi WarningMsg	cterm=none ctermfg=none ctermbg=none gui=none
 hi WildMenu	cterm=none ctermfg=none ctermbg=none gui=none
 hi Folded	cterm=none ctermfg=none ctermbg=none gui=none
 hi FoldColumn	cterm=none ctermfg=none ctermbg=none gui=none
-hi DiffAdd	cterm=none ctermfg=none ctermbg=none gui=none
-hi DiffChange	cterm=none ctermfg=none ctermbg=none gui=none
-hi DiffDelete	cterm=none ctermfg=none ctermbg=none gui=none
-hi DiffText	cterm=none ctermfg=none ctermbg=none gui=none
+hi DiffAdd	cterm=bold ctermfg=LightBlue ctermbg=none gui=none
+hi DiffChange	cterm=bold ctermfg=LightGreen ctermbg=none gui=none
+hi DiffDelete	cterm=bold ctermfg=LightRed ctermbg=none gui=none
+hi DiffText	cterm=bold ctermfg=LightGreen ctermbg=none gui=none
 hi SignColumn	cterm=none ctermfg=none ctermbg=none gui=none
 hi Conceal	cterm=none ctermfg=none ctermbg=none gui=none
 hi SpellBad	cterm=underline ctermfg=LightRed ctermbg=none gui=none

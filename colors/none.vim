@@ -93,3 +93,8 @@ hi link Conditional     Statement
 hi link StorageClass    Statement
 hi link Operator        Statement
 hi link Statement       Statement
+
+"" vimwiki hilighting
+hi VimwikiLink cterm=underline
+hi VimwikiTodo ctermbg=236
+hi VimwikiItalic ctermfg=246

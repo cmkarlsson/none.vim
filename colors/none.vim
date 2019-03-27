@@ -98,3 +98,4 @@ hi link Statement       Statement
 hi VimwikiLink cterm=underline
 hi VimwikiTodo ctermbg=236
 hi VimwikiItalic ctermfg=246
+hi VimwikiCode ctermbg=236
